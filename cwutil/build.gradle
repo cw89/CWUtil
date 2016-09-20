@@ -6,7 +6,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 14
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
@@ -37,7 +37,7 @@ ext {
     siteUrl = 'https://github.com/cw89'
     gitUrl = 'https://github.com/cw89'
 
-    libraryVersion = '1.1.2'
+    libraryVersion = '1.1.4'
 
     developerId = 'cw89'
     developerName = 'ChangWan'
