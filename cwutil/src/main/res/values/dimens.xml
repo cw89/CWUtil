@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="cw_status_bar_height">25dip</dimen>
+    <dimen name="cw_navigation_bar_height">48dip</dimen>
+    <dimen name="cw_keyboard_height">230dip</dimen>
+
+
+</resources>
