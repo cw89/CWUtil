@@ -5,6 +5,8 @@ import android.util.Log;
 /**
  * Created by chang-wan on 2016. 9. 20..
  */
+
+
 public class Dlog {
 
     private static final String TAG = Dlog.class.getSimpleName();
