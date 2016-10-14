@@ -13,10 +13,12 @@ public class Dlog {
 
 
     private static boolean DEBUG = false;
+
     public static void isDebug()
     {
         DEBUG = true;
     }
+
     public static final void e(String message) {
         if (DEBUG) Log.e(TAG, showMessage(message));
     }
